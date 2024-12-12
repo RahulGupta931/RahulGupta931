@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta931&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta931" /> </p>
 
-- 🔭 I’m currently working on **Django and React**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Django, REST API, React.js, Flask**
+- 🌱 I’m currently learning **Django, REST API, Flask**
 
 - 👯 I’m looking to collaborate on **Python related project, Django project**
 
-- 💬 Ask me about **Django, REST API, React.js, Flask**
+- 💬 Ask me about **Django, REST API, Flask**
 
 - 📫 How to reach me **rgupta8750@gmail.com**
 
