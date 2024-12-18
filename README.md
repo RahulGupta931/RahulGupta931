@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">Python Developer - Django</h3>
+<h3 align="center">Aspiring Python Developer | Data Science | Data Visualization | Django/Flask | Machine Learning | MCA 2024-26</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta931&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta931" /> </p>
 
