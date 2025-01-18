@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta931&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta931" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning, Deep Learnig, GenAI, NLP**
 
-- 🌱 I’m currently learning **Django, REST API, Flask**
+- 🌱 I’m currently learning **Django, REST API, Flask, YOLOv11, TensorFlow, Scikit-Learn, AWS**
 
-- 👯 I’m looking to collaborate on **Python related project, Django project**
+- 👯 I’m looking to collaborate on **Python , Machine Learning, Deep Learning, GenAI related project, Django project**
 
 - 💬 Ask me about **Django, REST API, Flask**
 
